@@ -1,0 +1,27 @@
+.educational form {
+    width: 50%;
+    margin: auto;
+}
+
+.educational-head {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media only screen and (max-width: 767px) {
+    .educational form {
+        width: unset;
+        margin: unset;
+    }
+}
+
+.valid {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 10px;
+}
+
+.valid h4 {
+    border-bottom: 2px solid black;
+    border-radius: unset;
+}

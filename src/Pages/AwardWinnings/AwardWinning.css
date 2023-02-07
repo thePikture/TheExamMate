@@ -1,0 +1,10 @@
+.award-head {
+    margin: 20px;
+}
+
+.award-head p {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 20px;
+    color: green;
+}

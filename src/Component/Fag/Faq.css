@@ -1,0 +1,32 @@
+.faq {
+    text-align: center;
+    padding: 35px;
+    background-color: #e9f7f3 !important;
+}
+
+@media only screen and (max-width: 768px) {
+    .faq {
+        padding: 5px !important;
+    }
+
+    .col-md-12 {
+        margin-top: 8px;
+    }
+}
+
+
+.accordion-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 2rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out, border-radius .15s ease;
+}

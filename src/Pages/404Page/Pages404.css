@@ -1,0 +1,52 @@
+.error-area .container {
+    background: #f9f9f9;
+    /* margin: 33px; */
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.error-content {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.error-content h3 {
+    font-size: 35px;
+    margin-bottom: 20px;
+    margin-top: 45px;
+}
+
+
+.error-content p {
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+
+.default-btn {
+    padding: 7px 35px 7px 35px;
+    margin: 10px;
+    border: none;
+    background: #524fd5;
+    color: white;
+    border-radius: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+    text-transform: capitalize;
+    transition: all .2s ease-in-out;
+    text-decoration: none;
+    white-space: nowrap;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid transparent;
+    margin-top: 10px;
+}

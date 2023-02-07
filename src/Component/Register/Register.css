@@ -1,0 +1,23 @@
+.loginBtn {
+    padding: 7px 35px 7px 35px;
+    margin: 10px;
+    border: none;
+    background: #524fd5;
+    color: white;
+    border-radius: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+    text-transform: capitalize;
+    transition: all .2s ease-in-out;
+    text-decoration: none;
+    white-space: nowrap;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid transparent;
+}
+
+.form-outline span {
+    color: red;
+}
